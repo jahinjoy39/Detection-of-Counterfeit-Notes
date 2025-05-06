@@ -1,6 +1,5 @@
-# Fake-Bangladeshi-note-detection-
+# Detection of Counterfeit Bangladeshi Notes Using CNN
 
-## main.py
 In this section ,we train our fake and real note using convulational neural network which implemented by keras framework.
 
 ## First We import our header file
